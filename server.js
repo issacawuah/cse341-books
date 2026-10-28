@@ -1,4 +1,6 @@
 // IT READS THE PORT AND LISTEN TO THE SERVER
+// 2. have chang const port to var port because;
+// See what ESLint can fix by itself and what you must fix by hand
 
 import app from './app.js';
 
